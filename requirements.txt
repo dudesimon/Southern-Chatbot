@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langgraph
+ollama
+faiss-cpu
+pypdf
+beautifulsoup4
+requests
+streamlit
+chainlit
